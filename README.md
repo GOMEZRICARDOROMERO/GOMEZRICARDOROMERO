@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h4>Owner <a href="https://play.google.com/store/apps/details?id=com.ringokysoft.petsAndMath&hl=es-419">Pets´& Math</a> </h4>
+<img src="https://play-lh.googleusercontent.com/gw0LNcT6SOg1meiX6YiPzgx2Z8vlDv5ksYqI6gUtaXt8voiOfNTgJ_RWZS4xj4GvnQ=w416-h235-rw"/> 
 
 <h4> Android Developer </h4>
 <p>
